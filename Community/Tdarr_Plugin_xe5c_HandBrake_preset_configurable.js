@@ -1,5 +1,5 @@
 const details = () => ({
-    id: "WQA7mO1PK",
+    id: "Tdarr_Plugin_xv5c_HandBrake_preset_configurable",
     Name: "■ Løøt ■ HandBrake preset configurable h.265 to h.265 possible with this plugin",
     Type: "Video",
     Operation: "Transcode",
